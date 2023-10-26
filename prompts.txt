@@ -1,0 +1,11 @@
+prompt 1 : 
+outsourcing client 
+
+
+"""
+I am a datanalyst trying to build rapport to optimize sourcing potential clients
+ and identifying projects viability, [client_name]. They work in the [client_industry]
+  and have expressed interest in our [experience]. Their interest  include [themes].
+   Can you provide me with a personalized conversation starter and a tailored engagement strategy
+    to help me establish a strong connection with [client_name]?
+""" 
